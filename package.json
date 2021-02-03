@@ -1,0 +1,11 @@
+{
+  "name": "dtblogger",
+  "version": "1.0.0",
+  "description": "A tiny logger tool.",
+  "main": "index.js",
+  "author": "dantechboy",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
